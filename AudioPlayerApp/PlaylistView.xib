@@ -28,7 +28,7 @@
                         <constraint firstAttribute="height" constant="50" id="8WR-UA-rQo"/>
                     </constraints>
                     <state key="normal" title="Show Player">
-                        <color key="titleColor" red="1" green="0.3324484385" blue="0.5050558691" alpha="1" colorSpace="calibratedRGB"/>
+                        <color key="titleColor" red="0.077904647435897423" green="0.026182062684194592" blue="0.040228233526231352" alpha="1" colorSpace="calibratedRGB"/>
                     </state>
                     <connections>
                         <action selector="showPlayerAction:" destination="-1" eventType="touchUpInside" id="A1g-J8-UkW"/>

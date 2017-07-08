@@ -145,6 +145,10 @@ class PlayerViewController: UIViewController {
         self.dismiss(animated: true, completion: nil)
     }
     
+    
+    
+    
+    
     //MARK: - Update
     
     func updateView() {

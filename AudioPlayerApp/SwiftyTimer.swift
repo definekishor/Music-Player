@@ -14,6 +14,9 @@ extension Timer {
         let timer = Timer.new(after: interval, block)
         timer.start()
         return timer
+        
+        
+        
     }
     
     /// Create and schedule a timer that will call `block` repeatedly in specified time intervals.

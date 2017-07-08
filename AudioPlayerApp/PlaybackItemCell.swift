@@ -13,6 +13,9 @@ class PlaybackItemCell: UITableViewCell {
 
     //MARK: - Vars
     
+    
+    
+    
     let playbackItem: PlaybackItem
     var barsImageView: UIImageView?
     

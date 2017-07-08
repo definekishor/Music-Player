@@ -20,6 +20,10 @@ public struct PlaybackItem {
     let albumImageName: String
 }
 
+
+
+
+
 extension PlaybackItem: Equatable {}
 public func ==(lhs: PlaybackItem, rhs: PlaybackItem) -> Bool {
     return lhs.fileURL.absoluteString == rhs.fileURL.absoluteString
